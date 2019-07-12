@@ -12,6 +12,11 @@ section a {
     text-decoration:underline;
 }
 
+.level-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 
 /* bouncing down arrow: https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation */
 .downArrow{
