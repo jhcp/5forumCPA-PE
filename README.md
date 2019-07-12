@@ -1,2 +1,2 @@
 # 5forumCPA-PE
-Site do quinto Fórum das CPAs de Pernambuco/Brasil
+Site do sétimo Fórum das CPAs de Pernambuco/Brasil
