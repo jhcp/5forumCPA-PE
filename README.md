@@ -1,2 +1,2 @@
-# 5forumCPA-PE
-Site do sétimo Fórum das CPAs de Pernambuco/Brasil
+# 7º Fórum das CPAs/PE
+Site do sétimo Fórum das Comissões Próprias de Avaliação de Pernambuco/Brasil
